@@ -1,1 +1,0 @@
-This text file is about the points I got from the chainreader.py code.
